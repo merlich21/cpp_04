@@ -1,2 +1,2 @@
 # cpp_04
-InheritanceSubtype polymorphism, abstract classes, interfaces
+Subtype polymorphism, abstract classes, interfaces
